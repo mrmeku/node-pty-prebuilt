@@ -2,7 +2,7 @@
  * Copyright (c) 2017, Daniel Imms (MIT License).
  */
 
-declare module 'node-pty' {
+declare module 'node-pty-prebuilt' {
   /**
    * Forks a process as a pseudoterminal.
    * @param file The file to launch.
